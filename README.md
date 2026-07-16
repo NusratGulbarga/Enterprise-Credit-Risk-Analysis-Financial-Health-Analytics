@@ -4,6 +4,9 @@ An end-to-end **Credit Risk Analytics** solution that integrates **SQL, Power Qu
 
 ---
 
+![Banner image](banner.png)
+
+
 # 📌 Project Overview
 
 Financial institutions continuously monitor loan portfolios to minimize credit risk while maximizing profitability. This project analyzes **12,000+ banking loan records** with **22 financial attributes** to evaluate portfolio performance, identify high-risk borrowers, analyze financial health indicators, and generate executive-level insights through interactive dashboards.
