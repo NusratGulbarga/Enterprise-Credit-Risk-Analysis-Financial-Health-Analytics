@@ -2,7 +2,7 @@
 Credit Risk Analytics Dashboard
 Visualization: Loan Purpose Relationship Network
 
-Author: Devaraju K G
+Author: Nusrat Gulbarga
 
 Description:
 This script generates a network graph to visualize the relationship
