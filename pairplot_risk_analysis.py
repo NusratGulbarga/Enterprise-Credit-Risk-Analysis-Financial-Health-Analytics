@@ -2,7 +2,7 @@
 Credit Risk Analytics Dashboard
 Visualization: Pair Plot Risk Analysis
 
-Author: Devaraju K G
+Author: NusratGulbarga
 
 Description:
 This script generates a pair plot to visualize relationships
